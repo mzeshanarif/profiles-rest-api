@@ -17,6 +17,8 @@ class ProfileFeedItem(models.Model):
 
 
 
+
+
 class UserProfileManager(BaseUserManager):
     """Helps Django work with our custom user model."""
 
